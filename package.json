@@ -1,0 +1,8 @@
+{
+  "name": "atomic-design-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/soyReynald/atomic-design-cs.git",
+  "author": "soyreynald <reynaldramirez@hotmail.com>",
+  "license": "MIT"
+}
